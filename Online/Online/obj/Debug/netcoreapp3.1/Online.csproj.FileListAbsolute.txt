@@ -1,0 +1,14 @@
+C:\Users\SAILS-DM150\source\repos\Online\Online\bin\Debug\netcoreapp3.1\Online.exe
+C:\Users\SAILS-DM150\source\repos\Online\Online\bin\Debug\netcoreapp3.1\Online.deps.json
+C:\Users\SAILS-DM150\source\repos\Online\Online\bin\Debug\netcoreapp3.1\Online.runtimeconfig.json
+C:\Users\SAILS-DM150\source\repos\Online\Online\bin\Debug\netcoreapp3.1\Online.runtimeconfig.dev.json
+C:\Users\SAILS-DM150\source\repos\Online\Online\bin\Debug\netcoreapp3.1\Online.dll
+C:\Users\SAILS-DM150\source\repos\Online\Online\bin\Debug\netcoreapp3.1\Online.pdb
+C:\Users\SAILS-DM150\source\repos\Online\Online\obj\Debug\netcoreapp3.1\Online.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM150\source\repos\Online\Online\obj\Debug\netcoreapp3.1\Online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM150\source\repos\Online\Online\obj\Debug\netcoreapp3.1\Online.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM150\source\repos\Online\Online\obj\Debug\netcoreapp3.1\Online.AssemblyInfo.cs
+C:\Users\SAILS-DM150\source\repos\Online\Online\obj\Debug\netcoreapp3.1\Online.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM150\source\repos\Online\Online\obj\Debug\netcoreapp3.1\Online.dll
+C:\Users\SAILS-DM150\source\repos\Online\Online\obj\Debug\netcoreapp3.1\Online.pdb
+C:\Users\SAILS-DM150\source\repos\Online\Online\obj\Debug\netcoreapp3.1\Online.genruntimeconfig.cache
