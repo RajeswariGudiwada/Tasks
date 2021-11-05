@@ -1,0 +1,14 @@
+C:\Users\SAILS-DM150\source\repos\TrainSchedule\TrainSchedule\obj\Debug\netcoreapp3.1\TrainSchedule.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM150\source\repos\TrainSchedule\TrainSchedule\obj\Debug\netcoreapp3.1\TrainSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM150\source\repos\TrainSchedule\TrainSchedule\obj\Debug\netcoreapp3.1\TrainSchedule.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM150\source\repos\TrainSchedule\TrainSchedule\obj\Debug\netcoreapp3.1\TrainSchedule.AssemblyInfo.cs
+C:\Users\SAILS-DM150\source\repos\TrainSchedule\TrainSchedule\obj\Debug\netcoreapp3.1\TrainSchedule.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM150\source\repos\TrainSchedule\TrainSchedule\bin\Debug\netcoreapp3.1\TrainSchedule.exe
+C:\Users\SAILS-DM150\source\repos\TrainSchedule\TrainSchedule\bin\Debug\netcoreapp3.1\TrainSchedule.deps.json
+C:\Users\SAILS-DM150\source\repos\TrainSchedule\TrainSchedule\bin\Debug\netcoreapp3.1\TrainSchedule.runtimeconfig.json
+C:\Users\SAILS-DM150\source\repos\TrainSchedule\TrainSchedule\bin\Debug\netcoreapp3.1\TrainSchedule.runtimeconfig.dev.json
+C:\Users\SAILS-DM150\source\repos\TrainSchedule\TrainSchedule\bin\Debug\netcoreapp3.1\TrainSchedule.dll
+C:\Users\SAILS-DM150\source\repos\TrainSchedule\TrainSchedule\bin\Debug\netcoreapp3.1\TrainSchedule.pdb
+C:\Users\SAILS-DM150\source\repos\TrainSchedule\TrainSchedule\obj\Debug\netcoreapp3.1\TrainSchedule.dll
+C:\Users\SAILS-DM150\source\repos\TrainSchedule\TrainSchedule\obj\Debug\netcoreapp3.1\TrainSchedule.pdb
+C:\Users\SAILS-DM150\source\repos\TrainSchedule\TrainSchedule\obj\Debug\netcoreapp3.1\TrainSchedule.genruntimeconfig.cache
